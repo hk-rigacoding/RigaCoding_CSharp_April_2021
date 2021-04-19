@@ -1,5 +1,25 @@
 # Šis ir Riga Coding School lekciju kurss C#, 2021 gada Aprīlis.
-## Provizoriskais saturs :
+
+## Kā uzinstalēt VS2019 ?
+	Windows : https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16
+		Instalējot, jāieķeksē .NET CORE opcija.
+	MacOS : https://visualstudio.microsoft.com/thank-you-downloading-visual-studio-mac/?sku=communitymac&rel=16
+		Instalējot, jāieķeksē .NET CORE opcija.
+
+## Kā atrast lekciju materiālu kodu ?
+	Atvērt https://github.com/hk-rigacoding
+	Pārlūkā izvēlēties vajadzīgās tēmas mapi
+	Iekopēt saiti no pārlūka (CTRL+C)
+	Atvērt VS2019, izvēlēties `Clone Repository`
+	Ievadīt izvēlēto saiti (CTRL+V)
+	Aizpildīt pārējos laukus (mapes, utml.)
+	Nospiest `CLONE`
+
+## Kā nodot darbus ?	
+	TODO ...
+
+
+## Kursa provizoriskais saturs :
 
 # 1.nedēļa
 ## Ievads programmēšanā C# un .NET
