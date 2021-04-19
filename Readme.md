@@ -2,21 +2,21 @@
 
 Provizoriskais saturs :
 
-#1.nedēļa
-Ievads programmēšanā C# un .NET
-			# Kas ir programmēšana, kods, no kā sastāv programma #
-Koda redaktora uzstādīšana / Visual Studio 2019 IDE
-			 # VS2019 pamata funkcijas, orientējamies VS2019, atkļūdošana #
-Īss ievads GitHub
-			 # Lekciju kods githubā, saites, integrācija VS2019 #
+# 1.nedēļa
+## Ievads programmēšanā C# un .NET
+			Kas ir programmēšana, kods, no kā sastāv programma 
+## Koda redaktora uzstādīšana / Visual Studio 2019 IDE
+			  VS2019 pamata funkcijas, orientējamies VS2019, atkļūdošana 
+## Īss ievads GitHub
+			 Lekciju kods githubā, saites, integrācija VS2019 
 C# pamata īpatnības
-			# Atšķirības, noformējums, prakse, formāla un neformāla #
+			 Atšķirības, noformējums, prakse, formāla un neformāla 
 Programmas plūsma / hello world!
- 		# Pirmā programma #
+ 		 Pirmā programma 
 Pamata lietotāja ievade / izvade
-	 		# Izvade uz ekrāna, ievade no tastatūras #		
+	 		 Izvade uz ekrāna, ievade no tastatūras	
 Primitīvie skaitļi / veselie skaitļi, peldošā punkta skaitļi
-			#  Īpatnības un noteikumi C#  #
+			  Īpatnības un noteikumi C#  
 2.nedēļa
 
 Aritmētiskās operācijas / saskaitīšana, atņemšana, reizināšana, dalīšana, dalījuma atlikums
