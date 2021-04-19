@@ -9,15 +9,15 @@ Provizoriskais saturs :
 			  VS2019 pamata funkcijas, orientējamies VS2019, atkļūdošana 
 ## Īss ievads GitHub
 			 Lekciju kods githubā, saites, integrācija VS2019 
-C# pamata īpatnības
+## C# pamata īpatnības
 			 Atšķirības, noformējums, prakse, formāla un neformāla 
-Programmas plūsma / hello world!
+## Programmas plūsma / hello world!
  		 Pirmā programma 
-Pamata lietotāja ievade / izvade
+## Pamata lietotāja ievade / izvade
 	 		 Izvade uz ekrāna, ievade no tastatūras	
-Primitīvie skaitļi / veselie skaitļi, peldošā punkta skaitļi
+## Primitīvie skaitļi / veselie skaitļi, peldošā punkta skaitļi
 			  Īpatnības un noteikumi C#  
-2.nedēļa
+# 2.nedēļa
 
 Aritmētiskās operācijas / saskaitīšana, atņemšana, reizināšana, dalīšana, dalījuma atlikums
 Relāciju operatori / vienāds, nav vienāds, lielāks, mazāks
