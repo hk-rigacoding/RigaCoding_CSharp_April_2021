@@ -18,7 +18,11 @@ Atvērt [Git Repozitoriju](https://github.com/hk-rigacoding)
 	Nospiest `CLONE`
 
 ## Kā nodot darbus ?	
-	TODO ...
+	Atvērt Google Classroom
+	Izvēlēties vajadzīgo Lekciju
+	Izvēlēties mājasdarbu
+	Pievienot failu
+	Nodot
 
 
 ## Kursa provizoriskais saturs :
