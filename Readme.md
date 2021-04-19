@@ -1,6 +1,5 @@
-Šis ir Riga Coding School lekciju kurss C#, 2021 gada Aprīlis.
-
-Provizoriskais saturs :
+# Šis ir Riga Coding School lekciju kurss C#, 2021 gada Aprīlis.
+# Provizoriskais saturs :
 
 # 1.nedēļa
 ## Ievads programmēšanā C# un .NET
