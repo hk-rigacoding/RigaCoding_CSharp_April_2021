@@ -2,12 +2,13 @@
 
 ## Diskords - tiešsaiste lekcijām
 [Lejupielādē diskordu](https://discord.com/download)
-		Uzinstalē to
-		Izveido diskorda kontu
-		Apstiprini epastu
-		Ver vaļā Friends-> Add Friend
-		Copy paste lauciņā manu diskorda niku : hk.rigacoding#9712
-		Spied `Send Friend Request`
+	
+	Uzinstalē to
+	Izveido diskorda kontu
+	Apstiprini epastu
+	Ver vaļā Friends-> Add Friend
+	Copy paste lauciņā manu diskorda niku : hk.rigacoding#9712
+	Spied `Send Friend Request`
 
 ## Kā uzinstalēt VS2019 ?
 [Windows](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=Community&rel=16)
