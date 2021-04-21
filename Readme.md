@@ -46,6 +46,8 @@ Atvērt [Git Repozitoriju](https://github.com/hk-rigacoding)
 	 		 Izvade uz ekrāna, ievade no tastatūras	
 ## Primitīvie skaitļi / veselie skaitļi, peldošā punkta skaitļi
 			  Īpatnības un noteikumi C#  
+## Ievads metodēs
+
 # 2.nedēļa
 
 ## Aritmētiskās operācijas / saskaitīšana, atņemšana, reizināšana, dalīšana, dalījuma atlikums
