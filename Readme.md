@@ -41,12 +41,13 @@ Atvērt [Git Repozitoriju](https://github.com/hk-rigacoding)
 ## C# pamata īpatnības
 			 Atšķirības, noformējums, prakse, formāla un neformāla 
 ## Programmas plūsma / hello world!
- 		 Pirmā programma 
+ 		Pirmā programma 
 ## Pamata lietotāja ievade / izvade
-	 		 Izvade uz ekrāna, ievade no tastatūras	
+	 	Izvade uz ekrāna, ievade no tastatūras	
 ## Primitīvie skaitļi / veselie skaitļi, peldošā punkta skaitļi
-			  Īpatnības un noteikumi C#  
+		Īpatnības un noteikumi C#  
 ## Ievads metodēs
+		Kas tās tādas, 	kāpēc tās lietot ?
 
 # 2.nedēļa
 
