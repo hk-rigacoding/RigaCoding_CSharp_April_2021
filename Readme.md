@@ -11,7 +11,7 @@
 [MacOS](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio-mac/?sku=communitymac&rel=16)
 		***Instalējot, jāieķeksē .NET CORE opcija.
 
-## Kā atrast lekciju materiālu kodu ?
+## Kā atrast lekciju materiālu kodu (to vēlāk vajadzēs, lekcijās izrunāsim) ?
 Atvērt [Git Repozitoriju](https://github.com/hk-rigacoding)
 
 	Pārlūkā izvēlēties vajadzīgās tēmas mapi
